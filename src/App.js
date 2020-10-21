@@ -24,10 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{data.title}</h1>
-      <h3>{data.date}</h3>
-      <img src={data.url} alt = "potd" />
-      <h3>{data.explanation}</h3>
+      
     </div>
   );
 }
