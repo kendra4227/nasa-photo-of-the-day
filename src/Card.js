@@ -6,6 +6,7 @@ width:40%;
 height:20%;
 background-color: #F5B700 ;
 
+
 `;
 
 const StyledH1 = styled.h1`
@@ -25,6 +26,7 @@ width:100%;
 const StyledP = styled.p`
 width:50%;
 height:50%;
+
 `;
 
 const Card = (props) => {
